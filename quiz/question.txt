@@ -1,2 +1,10 @@
 What is the capital of thailand?
 Bangkok
+What is the capital of India?
+Delhi
+What is the capital of Poland?
+Warsaw
+What is the capital of Bulgaria?
+Sofia
+What is the capital of Japan?
+Tokyo
